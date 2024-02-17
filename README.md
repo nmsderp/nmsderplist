@@ -1,6 +1,6 @@
 # List
 
-This is a ranking of Geometry Dash levels created by me and my friends :trollface:
+This is a ranking of Geometry Dash levels created by me, my friends, and underated creators :trollface:
 
 ## Demon List
 
