@@ -6,5 +6,5 @@ This is a ranking of Geometry Dash levels created by me, my friends, and underat
 
 | Difficulty | Level Name               | Creator     | ID      |
 |------------|--------------------------|-------------|---------|
-| **Easy**   | level name here           | whoever made it      | id       |
+| **Insane**   | imposible wave 2           | Dumbdemon65      | 97224298       |
 
